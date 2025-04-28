@@ -9,7 +9,7 @@ export const DATA = {
     "MERN Stack & Next.js Developer || MongoDb, Express.js, React.js,, Node.js || Full-Stack Web Developer",
   summary:
     "Experienced MERN Stack & Next.js Developer with a strong foundation in HTML, CSS, JavaScript, MongoDB, Express.js, React.js, and Node.js. Skilled in building full-stack web applications with clean, scalable code and modern UI/UX practices. Passionate about delivering fast, secure, and user-friendly web solutions using the latest technologies. From responsive front-ends to robust back-ends, I specialize in creating seamless digital experiences. Let's collaborate to turn your ideas into powerful, real-world applications!.",
-  avatarUrl: "/ali.png",
+  avatarUrl: "/Untitled design.png",
   skills: [
     "React Js",
     "Next Js",
